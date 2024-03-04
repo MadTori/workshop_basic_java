@@ -1,5 +1,9 @@
 # workshop_java: Java Basics Mini Projects
 
+## POWERPOINT
+
+<https://epitechfr-my.sharepoint.com/:p:/g/personal/benjamin_delima-cruz_epitech_eu/ETDfJKftaT5MrU2Faz9S8TwBUQRPa5YQ8nyN_pwTlEwUDg?e=Vad1es>
+
 ## STEP 00: BlueJ Installation Guide
 
 What is BlueJ?
