@@ -9,6 +9,5 @@ public class Programa
 {
     public static void main(String[] args){
         Teclado teclado = new Teclado();
-
     }
 }
